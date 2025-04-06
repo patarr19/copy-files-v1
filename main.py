@@ -30,3 +30,5 @@ if __name__ == "__main__":
         copyTxt("D:\\YURKA-CODER\пароли\\passwords.txt", "copied.txt")
     else:
         print("Не найдена команда")
+
+# P.S i dont undestend what "from random import choice" is doing there. maybe it because i add "choice" variable 
